@@ -1,6 +1,6 @@
-# Kubernetes Helm charts by [@cetic](https://cetic.be)
+# Kubernetes Helm charts
 
-This is a [Helm](https://helm.sh) charts repository for Kubernetes made by [@cetic](https://cetic.be).
+This is a [Helm](https://helm.sh) charts repository for Kubernetes.
 
 ### Add Helm repository
 
