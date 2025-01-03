@@ -4,7 +4,7 @@ This is a [Helm](https://helm.sh) charts repository for Kubernetes.
 
 ### Add Helm repository
 
-To install the [cetic](https://cetic.be) repo just run:
+To install the cloudarchihub repo just run:
 
 ```bash
 helm repo add cloudarchihub https://cloudarchihub.github.io/helm-charts
